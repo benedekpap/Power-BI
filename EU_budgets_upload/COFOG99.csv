@@ -1,0 +1,71 @@
+Order;Level;Code;Parent;Code;Main group;Description;Remark;General public services;Defence;Public order and safety;Economic affairs;Environmental protection;Housing and community amenities;Health;Recreation, culture and religion;Education;Social protection;
+2235172;1;20;;TOTAL;TOTAL;Total;;;;;;;;;;;;
+2235174;2;40;30;GF0101;General public services;Executive and legislative organs, financial and fiscal affairs, external affairs;;Executive and legislative organs, financial and fiscal affairs, external affairs;;;;;;;;;;GF0101
+2235178;2;80;30;GF0102;General public services;Foreign economic aid;;Foreign economic aid;;;;;;;;;;GF0102
+2235181;2;110;30;GF0103;General public services;General services;;General services;;;;;;;;;;GF0103
+2235185;2;150;30;GF0104;General public services;Basic research;;Basic research;;;;;;;;;;GF0104
+2235187;2;170;30;GF0105;General public services;R&D General public services;;R&D General public services;;;;;;;;;;GF0105
+2235189;2;190;30;GF0106;General public services;General public services n.e.c.;;General public services n.e.c.;;;;;;;;;;GF0106
+2235191;2;210;30;GF0107;General public services;Public debt transactions;;Public debt transactions;;;;;;;;;;GF0107
+2235193;2;230;30;GF0108;General public services;Transfers of a general character between different levels of government;;Transfers of a general character between different levels of government;;;;;;;;;;GF0108
+2235196;2;260;250;GF0201;Defence;Military defence;;;Military defence;;;;;;;;;GF0201
+2235198;2;280;250;GF0202;Defence;Civil defence;;;Civil defence;;;;;;;;;GF0202
+2235200;2;300;250;GF0203;Defence;Foreign military aid;;;Foreign military aid;;;;;;;;;GF0203
+2235202;2;320;250;GF0204;Defence;R&D Defence;;;R&D Defence;;;;;;;;;GF0204
+2235204;2;340;250;GF0205;Defence;Defence n.e.c.;;;Defence n.e.c.;;;;;;;;;GF0205
+2235207;2;370;360;GF0301;Public order and safety;Police services;;;;Police services;;;;;;;;GF0301
+2235209;2;390;360;GF0302;Public order and safety;Fire-protection services;;;;Fire-protection services;;;;;;;;GF0302
+2235211;2;410;360;GF0303;Public order and safety;Law courts;;;;Law courts;;;;;;;;GF0303
+2235213;2;430;360;GF0304;Public order and safety;Prisons;;;;Prisons;;;;;;;;GF0304
+2235215;2;450;360;GF0305;Public order and safety;R&D Public order and safety;;;;R&D Public order and safety;;;;;;;;GF0305
+2235217;2;470;360;GF0306;Public order and safety;Public order and safety n.e.c.;;;;Public order and safety n.e.c.;;;;;;;;GF0306
+2235220;2;500;490;GF0401;Economic affairs;General economic, commercial and labour affairs;;;;;General economic, commercial and labour affairs;;;;;;;GF0401
+2235223;2;530;490;GF0402;Economic affairs;Agriculture, forestry, fishing and hunting;;;;;Agriculture, forestry, fishing and hunting;;;;;;;GF0402
+2235227;2;570;490;GF0403;Economic affairs;Fuel and energy;;;;;Fuel and energy;;;;;;;GF0403
+2235234;2;640;490;GF0404;Economic affairs;Mining, manufacturing and construction;;;;;Mining, manufacturing and construction;;;;;;;GF0404
+2235238;2;680;490;GF0405;Economic affairs;Transport;;;;;Transport;;;;;;;GF0405
+2235244;2;740;490;GF0406;Economic affairs;Communication;;;;;Communication;;;;;;;GF0406
+2235246;2;760;490;GF0407;Economic affairs;Other industries;;;;;Other industries;;;;;;;GF0407
+2235251;2;810;490;GF0408;Economic affairs;R&D Economic affairs;;;;;R&D Economic affairs;;;;;;;GF0408
+2235259;2;890;490;GF0409;Economic affairs;Economic affairs n.e.c.;;;;;Economic affairs n.e.c.;;;;;;;GF0409
+2235262;2;920;910;GF0501;Environmental protection;Waste management;;;;;;Waste management;;;;;;GF0501
+2235264;2;940;910;GF0502;Environmental protection;Waste water management;;;;;;Waste water management;;;;;;GF0502
+2235266;2;960;910;GF0503;Environmental protection;Pollution abatement;;;;;;Pollution abatement;;;;;;GF0503
+2235268;2;980;910;GF0504;Environmental protection;Protection of biodiversity and landscape;;;;;;Protection of biodiversity and landscape;;;;;;GF0504
+2235270;2;1000;910;GF0505;Environmental protection;R&D Environmental protection;;;;;;R&D Environmental protection;;;;;;GF0505
+2235272;2;1020;910;GF0506;Environmental protection;Environmental protection n.e.c.;;;;;;Environmental protection n.e.c.;;;;;;GF0506
+2235275;2;1050;1040;GF0601;Housing and community amenities;Housing development;;;;;;;Housing development;;;;;GF0601
+2235277;2;1070;1040;GF0602;Housing and community amenities;Community development;;;;;;;Community development;;;;;GF0602
+2235279;2;1090;1040;GF0603;Housing and community amenities;Water supply;;;;;;;Water supply;;;;;GF0603
+2235281;2;1110;1040;GF0604;Housing and community amenities;Street lighting;;;;;;;Street lighting;;;;;GF0604
+2235283;2;1130;1040;GF0605;Housing and community amenities;R&D Housing and community amenities;;;;;;;R&D Housing and community amenities;;;;;GF0605
+2235285;2;1150;1040;GF0606;Housing and community amenities;Housing and community amenities n.e.c.;;;;;;;Housing and community amenities n.e.c.;;;;;GF0606
+2235288;2;1180;1170;GF0701;Health;Medical products, appliances and equipment;;;;;;;;Medical products, appliances and equipment;;;;GF0701
+2235292;2;1220;1170;GF0702;Health;Outpatient services;;;;;;;;Outpatient services;;;;GF0702
+2235297;2;1270;1170;GF0703;Health;Hospital services;;;;;;;;Hospital services;;;;GF0703
+2235302;2;1320;1170;GF0704;Health;Public health services;;;;;;;;Public health services;;;;GF0704
+2235304;2;1340;1170;GF0705;Health;R&D Health;;;;;;;;R&D Health;;;;GF0705
+2235306;2;1360;1170;GF0706;Health;Health n.e.c.;;;;;;;;Health n.e.c.;;;;GF0706
+2235309;2;1390;1380;GF0801;Recreation, culture and religion;Recreational and sporting services;;;;;;;;;Recreational and sporting services;;;GF0801
+2235311;2;1410;1380;GF0802;Recreation, culture and religion;Cultural services;;;;;;;;;Cultural services;;;GF0802
+2235313;2;1430;1380;GF0803;Recreation, culture and religion;Broadcasting and publishing services;;;;;;;;;Broadcasting and publishing services;;;GF0803
+2235315;2;1450;1380;GF0804;Recreation, culture and religion;Religious and other community services;;;;;;;;;Religious and other community services;;;GF0804
+2235317;2;1470;1380;GF0805;Recreation, culture and religion;R&D Recreation, culture and religion;;;;;;;;;R&D Recreation, culture and religion;;;GF0805
+2235319;2;1490;1380;GF0806;Recreation, culture and religion;Recreation, culture and religion n.e.c.;;;;;;;;;Recreation, culture and religion n.e.c.;;;GF0806
+2235322;2;1520;1510;GF0901;Education;Pre-primary and primary education;;;;;;;;;;Pre-primary and primary education;;GF0901
+2235325;2;1550;1510;GF0902;Education;Secondary education;;;;;;;;;;Secondary education;;GF0902
+2235328;2;1580;1510;GF0903;Education;Post-secondary non-tertiary education;;;;;;;;;;Post-secondary non-tertiary education;;GF0903
+2235330;2;1600;1510;GF0904;Education;Tertiary education;;;;;;;;;;Tertiary education;;GF0904
+2235333;2;1630;1510;GF0905;Education;Education not definable by level;;;;;;;;;;Education not definable by level;;GF0905
+2235335;2;1650;1510;GF0906;Education;Subsidiary services to education;;;;;;;;;;Subsidiary services to education;;GF0906
+2235337;2;1670;1510;GF0907;Education;R&D Education;;;;;;;;;;R&D Education;;GF0907
+2235339;2;1690;1510;GF0908;Education;Education n.e.c.;;;;;;;;;;Education n.e.c.;;GF0908
+2235342;2;1720;1710;GF1001;Social protection;Sickness and disability;;;;;;;;;;;Sickness and disability;GF1001
+2235345;2;1750;1710;GF1002;Social protection;Old age;;;;;;;;;;;Old age;GF1002
+2235347;2;1770;1710;GF1003;Social protection;Survivors;;;;;;;;;;;Survivors;GF1003
+2235349;2;1790;1710;GF1004;Social protection;Family and children;;;;;;;;;;;Family and children;GF1004
+2235351;2;1810;1710;GF1005;Social protection;Unemployment;;;;;;;;;;;Unemployment;GF1005
+2235353;2;1830;1710;GF1006;Social protection;Housing;;;;;;;;;;;Housing;GF1006
+2235355;2;1850;1710;GF1007;Social protection;Social exclusion n.e.c.;;;;;;;;;;;Social exclusion n.e.c.;GF1007
+2235357;2;1870;1710;GF1008;Social protection;R&D Social protection;;;;;;;;;;;R&D Social protection;GF1008
+2235359;2;1890;1710;GF1009;Social protection;Social protection n.e.c.;;;;;;;;;;;Social protection n.e.c.;GF1009
